@@ -1,0 +1,29 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+WARNING - 2018-02-03 17:53:18 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 17:53:31 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 17:55:43 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 17:56:11 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 17:56:36 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 17:58:28 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 17:59:42 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 17:59:58 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:00:10 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:00:17 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:01:06 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:01:32 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:01:49 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:02:18 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:03:15 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:06:18 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:06:19 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:08:50 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:08:52 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:09:07 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:10:01 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:10:38 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:10:48 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:11:00 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:11:36 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:20:57 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
+WARNING - 2018-02-03 18:32:44 --> Fuel\Core\Fuel::init - The configured locale Ja_JPUTF-8 is not installed on your system.
