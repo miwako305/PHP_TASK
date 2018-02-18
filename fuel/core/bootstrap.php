@@ -63,8 +63,7 @@ register_shutdown_function(function ()
 			exit(1);
 		}
 	}
- ////\Error::shutdown_handler();
-return fuel\Core\Error::shutdown_handler();
+	return \fuel\core\Error::shutdown_handler();
 });
 
 set_exception_handler(function (\Exception $e)

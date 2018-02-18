@@ -19,11 +19,15 @@ class Model_Status extends Model
 	$date = $arrayName = array(
 			array(
 				'date' =>'2012/04/08 12:33' ,
-				'body' => '花祭りなう',
+				'body' => '花祭りなう1',
 			),
 			array(
 				'date' => '2012/04/08' ,
-				'body' => '花祭りなう'
+				'body' => '花祭りなう2'
+			),
+			array(
+				'date' => '2012/04/08' ,
+				'body' => '花祭りなう3'
 			),
 		);
 

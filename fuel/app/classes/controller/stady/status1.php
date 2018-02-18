@@ -10,7 +10,7 @@
  */
 
 
-class Controller_Status extends Controller
+class Controller_Status1 extends Controller
 {
 	public function action_index()
 	{
@@ -18,6 +18,6 @@ class Controller_Status extends Controller
 		$results = Model_Status::find_body_by_username('foo');
 
 		//resultsをダンプして確認する。
-		Debug::dump($results);
+		return $results;
 	}
 }

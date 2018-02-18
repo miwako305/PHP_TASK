@@ -10,17 +10,18 @@
  */
 
 
-class Controller_Layout extends Controller_Template
+class Controller_Layout1 extends Controller_Template
 {
-	public function action_index()
+	public function before()
 	{
 		// 必ず親クラスのbefore()メソッドを実行する
+		parent::before();
 		$results = Model_Status::find_body_by_username('foo');
-		Debug::dump($results);
-		//resultsをダンプして確認する。
+		//$this->results = $results;
+		$this->current_user = $results;
 	}
 
-	public function action_before()
+	public function action_index()
 	{
 		// ビューファイル全体に$titleをセットする
 		$this->template->set_global('title', 'レイアウト機能のサンプル');
